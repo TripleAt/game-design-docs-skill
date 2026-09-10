@@ -17,6 +17,7 @@
 - `templates/one-page-pitch.md` — 会議向け一枚企画テンプレート
 - `templates/feature-brief.md` — 既存ゲームの機能企画テンプレート
 - `references/quality-checklist.md` — レビュー用チェックリスト
+- `references/beginner-structure.md` — 初心者向け8項目の最小構成と図解の使い方
 - `scripts/validate_game_proposal.py` — 企画書の必須セクション検証
 
 ## 使い方
@@ -34,6 +35,12 @@
 - 企画の柱
 - MVPと非目標
 - 最大のリスクと最初の検証
+
+## 参考にした構成
+
+初心者向けの最小構成（表紙、企画意図、コンセプト、ターゲット、世界観・設定、画面・操作、システム、ゲームサイクル）を取り入れている。詳細は [`references/beginner-structure.md`](references/beginner-structure.md) を参照。
+
+参考: [【初心者向け】ゲーム企画書に何を書けばよい？](https://note.com/shuei_camp/n/nb254c4b6c77a)
 
 ## ローカル検証
 

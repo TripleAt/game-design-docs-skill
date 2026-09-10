@@ -11,8 +11,12 @@ from pathlib import Path
 
 REQUIRED_SECTIONS: dict[str, tuple[str, ...]] = {
     "overview": ("企画概要", "概要", "summary"),
+    "intent": ("企画意図", "intent"),
     "player": ("プレイヤー", "体験", "player"),
     "pillars": ("企画の柱", "非目標", "pillars"),
+    "setting": ("世界観", "設定", "setting"),
+    "controls": ("ゲーム画面", "操作方法", "controls"),
+    "cycle": ("ゲームサイクル", "game cycle"),
     "loop": ("コアループ", "core loop"),
     "systems": ("システム", "system"),
     "progression": ("進行", "資源", "経済", "progression"),
