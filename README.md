@@ -16,8 +16,10 @@
 - `templates/game-proposal.md` — ゲーム全体の企画書テンプレート
 - `templates/one-page-pitch.md` — 会議向け一枚企画テンプレート
 - `templates/feature-brief.md` — 既存ゲームの機能企画テンプレート
+- `templates/presentation-brief.md` — 企画プレゼンの話順・接続文・想定質問
 - `references/quality-checklist.md` — レビュー用チェックリスト
 - `references/beginner-structure.md` — 初心者向け8項目の最小構成と図解の使い方
+- `references/boot-camp-series.md` — 連載5本の要点とスキルへの反映
 - `scripts/validate_game_proposal.py` — 企画書の必須セクション検証
 
 ## 使い方
@@ -38,9 +40,15 @@
 
 ## 参考にした構成
 
-初心者向けの最小構成（表紙、企画意図、コンセプト、ターゲット、世界観・設定、画面・操作、システム、ゲームサイクル）を取り入れている。詳細は [`references/beginner-structure.md`](references/beginner-structure.md) を参照。
+初心者向け8項目に加えて、読者起点、コンセプトを判断軸にする考え方、システムとUXの対応、動機の矢印によるゲームサイクル、コンセプトから始めるプレゼンの流れを取り入れている。詳細は [`references/boot-camp-series.md`](references/boot-camp-series.md) を参照。
 
-参考: [【初心者向け】ゲーム企画書に何を書けばよい？](https://note.com/shuei_camp/n/nb254c4b6c77a)
+参考:
+
+- [【ゲーム企画 BOOT CAMP!!】Part1 企画書はなんのために書く？](https://note.com/shuei_camp/n/n245a7b8b5acd)
+- [【ゲーム企画 BOOT CAMP!!】Part2 コンセプトは迷える開発者の指針！](https://note.com/shuei_camp/n/ncb43760f1d55)
+- [【ゲーム企画 BOOT CAMP!!】Part3 ゲームシステムとゲーム性](https://note.com/shuei_camp/n/n51b2a2ee7156)
+- [【ゲーム企画 BOOT CAMP!!】Part4 長く遊ばせるための「ゲームサイクル」](https://note.com/shuei_camp/n/n0d4a8e56361c)
+- [【ゲーム企画 BOOT CAMP!!】Part5 頭に入ってくるプレゼン方法](https://note.com/shuei_camp/n/n72103d08edb8)
 
 ## ローカル検証
 
